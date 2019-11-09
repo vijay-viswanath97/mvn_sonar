@@ -1,2 +1,2 @@
 test mvn sonar
-test webhooks
+test webhooks, automate build
